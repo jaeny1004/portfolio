@@ -91,7 +91,7 @@ ESP32-S3 · FSR-402 · MPU-6050 · Edge Impulse · TinyML
 **성과**
 - 2026 ICT 스마트 디바이스 전국 공모전 본선 진출
 
-👉 [프로젝트 상세보기](PROJECT_LINK)
+👉 [프로젝트 상세보기](https://github.com/jaeny1004/Rescue-Paw)
 
 ---
 
