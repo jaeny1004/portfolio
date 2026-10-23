@@ -64,7 +64,7 @@ React · TypeScript · Supabase · Vercel · Roboflow
 - 현장 데이터와 보고서 작성까지 이어지는 업무 흐름 구현
 - 서비스 통합 과정에서 데이터 흐름 및 연동 오류 분석
 
-👉 [프로젝트 상세보기](PROJECT_LINK)
+👉 [프로젝트 상세보기](https://github.com/jaeny1004/DX_08/tree/dev)
 
 ---
 
